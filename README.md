@@ -10,14 +10,13 @@
 
 <br clear="both">
 
-<p align="center">Executive @ Nexo Studio<br>Executive @ Nexoverse<br>Developer @ NexusOne<br>Ex-Developer @ LuckyNetwork<br>Ex-Developer @ PixraNetwork</p>
+<p align="center">Ex-Executive @ Nexo Studio<br>Ex-Executive @ Nexoverse<br>Ex-Executive @ NexusOne<br>Ex-Developer @ PixraNetwork<br>Ex-Developer @ LuckyNetwork</p>
 
 ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnxp/rnxp/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnxp/rnxp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rnxp/rnxp/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
